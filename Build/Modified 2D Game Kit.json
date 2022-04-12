@@ -1,0 +1,16 @@
+{
+"companyName": "847Creative",
+"productName": "2DGameKit",
+"productVersion": "0.1",
+"dataUrl": "Modified 2D Game Kit.data.unityweb",
+"wasmCodeUrl": "Modified 2D Game Kit.wasm.code.unityweb",
+"wasmFrameworkUrl": "Modified 2D Game Kit.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
